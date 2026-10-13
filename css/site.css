@@ -91,7 +91,7 @@ em.serif-it,.it{font-style:italic;font-variation-settings:"opsz" 96,"SOFT" 100,"
 .burger svg{width:26px;height:26px}
 .mobile-menu{display:none}
 @media (max-width:1320px){.brand-text{display:none}}
-@media (max-width:1180px){.hdr-phone .num{display:none}}
+@media (max-width:1440px){.hdr-phone .num{display:none}}
 @media (max-width:1060px){
   .nav{display:none}
   .burger{display:flex;align-items:center;justify-content:center}
